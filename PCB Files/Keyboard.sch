@@ -286,63 +286,63 @@
 <part name="NUM_DIVIDE" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_MULTIPLY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_LOCK" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="ESC" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_1" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_2" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_3" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_4" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_5" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_6" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_7" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_8" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_9" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TOP_0" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="HYPHEN" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="PLUS_EQUALS" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="BACKSPACE" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S5" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S6" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S7" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S8" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S9" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S10" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S11" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S12" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S13" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S14" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S15" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S16" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S17" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S18" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_PLUS" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_7" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_8" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_9" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="TAB" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="Q_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="W_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="E_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="R_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="T_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="Y_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="U_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="I_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="O_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="P_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="LEFT_BRACKET" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="RIGHT_BRACKET" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="BACKSLASH" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="A_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="S_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="D_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="F_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="G_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="H_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="J_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="K_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="L_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="COLON" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="QUOTE" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="ENTER_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="CAPS_LOCK" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="LEFT_SHIFT" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="Z_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="X_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="C_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="V_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="B_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="N_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="M_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="COMMA" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="PERIOD" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="QUESTION_MARK" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="RIGHT_SHIFT" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S23" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S24" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S25" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S26" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S27" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S28" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S29" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S30" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S31" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S32" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S33" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S34" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S35" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S36" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S37" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S38" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S39" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S40" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S41" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S42" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S43" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S44" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S45" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S46" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S47" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S48" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S49" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S50" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S51" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S52" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S53" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S54" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S55" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S56" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S57" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S58" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S59" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S60" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S61" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_4" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_5" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_6" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
@@ -350,14 +350,14 @@
 <part name="NUM_1" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_2" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_3" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="LEFT_CONTROL" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="LEFT_WIN_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="LEFT_ALT" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="SPACE_BAR" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="RIGHT_ALT" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="RIGHT_WIN_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="MENU_KEY" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
-<part name="RIGHT_CONTROL" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S69" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S70" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S71" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S72" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S73" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S74" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S75" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
+<part name="S76" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_DOT" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 <part name="NUM_0" library="cherry" deviceset="CHERRY_MX_LED" device=""/>
 </parts>
@@ -382,59 +382,59 @@
 <attribute name="NAME" x="15.24" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="10.16" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="ESC" gate="G$1" x="33.02" y="78.74" rot="R270">
+<instance part="S5" gate="G$1" x="33.02" y="78.74" rot="R270">
 <attribute name="NAME" x="35.56" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="30.48" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_1" gate="G$1" x="45.72" y="78.74" rot="R270">
+<instance part="S6" gate="G$1" x="45.72" y="78.74" rot="R270">
 <attribute name="NAME" x="48.26" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="43.18" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_2" gate="G$1" x="58.42" y="78.74" rot="R270">
+<instance part="S7" gate="G$1" x="58.42" y="78.74" rot="R270">
 <attribute name="NAME" x="60.96" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="55.88" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_3" gate="G$1" x="71.12" y="78.74" rot="R270">
+<instance part="S8" gate="G$1" x="71.12" y="78.74" rot="R270">
 <attribute name="NAME" x="73.66" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="68.58" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_4" gate="G$1" x="83.82" y="78.74" rot="R270">
+<instance part="S9" gate="G$1" x="83.82" y="78.74" rot="R270">
 <attribute name="NAME" x="86.36" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="81.28" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_5" gate="G$1" x="96.52" y="78.74" rot="R270">
+<instance part="S10" gate="G$1" x="96.52" y="78.74" rot="R270">
 <attribute name="NAME" x="99.06" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="93.98" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_6" gate="G$1" x="109.22" y="78.74" rot="R270">
+<instance part="S11" gate="G$1" x="109.22" y="78.74" rot="R270">
 <attribute name="NAME" x="111.76" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="106.68" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_7" gate="G$1" x="121.92" y="78.74" rot="R270">
+<instance part="S12" gate="G$1" x="121.92" y="78.74" rot="R270">
 <attribute name="NAME" x="124.46" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="119.38" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_8" gate="G$1" x="134.62" y="78.74" rot="R270">
+<instance part="S13" gate="G$1" x="134.62" y="78.74" rot="R270">
 <attribute name="NAME" x="137.16" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="132.08" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_9" gate="G$1" x="147.32" y="78.74" rot="R270">
+<instance part="S14" gate="G$1" x="147.32" y="78.74" rot="R270">
 <attribute name="NAME" x="149.86" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="144.78" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TOP_0" gate="G$1" x="160.02" y="78.74" rot="R270">
+<instance part="S15" gate="G$1" x="160.02" y="78.74" rot="R270">
 <attribute name="NAME" x="162.56" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="157.48" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="HYPHEN" gate="G$1" x="172.72" y="78.74" rot="R270">
+<instance part="S16" gate="G$1" x="172.72" y="78.74" rot="R270">
 <attribute name="NAME" x="175.26" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="170.18" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="PLUS_EQUALS" gate="G$1" x="185.42" y="78.74" rot="R270">
+<instance part="S17" gate="G$1" x="185.42" y="78.74" rot="R270">
 <attribute name="NAME" x="187.96" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="182.88" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="BACKSPACE" gate="G$1" x="198.12" y="78.74" rot="R270">
+<instance part="S18" gate="G$1" x="198.12" y="78.74" rot="R270">
 <attribute name="NAME" x="200.66" y="83.82" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="195.58" y="83.82" size="1.778" layer="96" rot="R270"/>
 </instance>
@@ -454,159 +454,159 @@
 <attribute name="NAME" x="15.24" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="10.16" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="TAB" gate="G$1" x="33.02" y="45.72" rot="R270">
+<instance part="S23" gate="G$1" x="33.02" y="45.72" rot="R270">
 <attribute name="NAME" x="35.56" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="30.48" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="Q_KEY" gate="G$1" x="45.72" y="45.72" rot="R270">
+<instance part="S24" gate="G$1" x="45.72" y="45.72" rot="R270">
 <attribute name="NAME" x="48.26" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="43.18" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="W_KEY" gate="G$1" x="58.42" y="45.72" rot="R270">
+<instance part="S25" gate="G$1" x="58.42" y="45.72" rot="R270">
 <attribute name="NAME" x="60.96" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="55.88" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="E_KEY" gate="G$1" x="71.12" y="45.72" rot="R270">
+<instance part="S26" gate="G$1" x="71.12" y="45.72" rot="R270">
 <attribute name="NAME" x="73.66" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="68.58" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R_KEY" gate="G$1" x="83.82" y="45.72" rot="R270">
+<instance part="S27" gate="G$1" x="83.82" y="45.72" rot="R270">
 <attribute name="NAME" x="86.36" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="81.28" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="T_KEY" gate="G$1" x="96.52" y="45.72" rot="R270">
+<instance part="S28" gate="G$1" x="96.52" y="45.72" rot="R270">
 <attribute name="NAME" x="99.06" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="93.98" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="Y_KEY" gate="G$1" x="109.22" y="45.72" rot="R270">
+<instance part="S29" gate="G$1" x="109.22" y="45.72" rot="R270">
 <attribute name="NAME" x="111.76" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="106.68" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="U_KEY" gate="G$1" x="121.92" y="45.72" rot="R270">
+<instance part="S30" gate="G$1" x="121.92" y="45.72" rot="R270">
 <attribute name="NAME" x="124.46" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="119.38" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="I_KEY" gate="G$1" x="134.62" y="45.72" rot="R270">
+<instance part="S31" gate="G$1" x="134.62" y="45.72" rot="R270">
 <attribute name="NAME" x="137.16" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="132.08" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="O_KEY" gate="G$1" x="147.32" y="45.72" rot="R270">
+<instance part="S32" gate="G$1" x="147.32" y="45.72" rot="R270">
 <attribute name="NAME" x="149.86" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="144.78" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="P_KEY" gate="G$1" x="160.02" y="45.72" rot="R270">
+<instance part="S33" gate="G$1" x="160.02" y="45.72" rot="R270">
 <attribute name="NAME" x="162.56" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="157.48" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LEFT_BRACKET" gate="G$1" x="172.72" y="45.72" rot="R270">
+<instance part="S34" gate="G$1" x="172.72" y="45.72" rot="R270">
 <attribute name="NAME" x="175.26" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="170.18" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="RIGHT_BRACKET" gate="G$1" x="185.42" y="45.72" rot="R270">
+<instance part="S35" gate="G$1" x="185.42" y="45.72" rot="R270">
 <attribute name="NAME" x="187.96" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="182.88" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="BACKSLASH" gate="G$1" x="198.12" y="45.72" rot="R270">
+<instance part="S36" gate="G$1" x="198.12" y="45.72" rot="R270">
 <attribute name="NAME" x="200.66" y="50.8" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="195.58" y="50.8" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="A_KEY" gate="G$1" x="45.72" y="12.7" rot="R270">
-<attribute name="NAME" x="48.26" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="43.18" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="S_KEY" gate="G$1" x="58.42" y="12.7" rot="R270">
-<attribute name="NAME" x="60.96" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="55.88" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="D_KEY" gate="G$1" x="71.12" y="12.7" rot="R270">
-<attribute name="NAME" x="73.66" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="68.58" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="F_KEY" gate="G$1" x="83.82" y="12.7" rot="R270">
-<attribute name="NAME" x="86.36" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="81.28" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="G_KEY" gate="G$1" x="96.52" y="12.7" rot="R270">
-<attribute name="NAME" x="99.06" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="93.98" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="H_KEY" gate="G$1" x="109.22" y="12.7" rot="R270">
-<attribute name="NAME" x="111.76" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="106.68" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="J_KEY" gate="G$1" x="121.92" y="12.7" rot="R270">
-<attribute name="NAME" x="124.46" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="119.38" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="K_KEY" gate="G$1" x="134.62" y="12.7" rot="R270">
-<attribute name="NAME" x="137.16" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="132.08" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="L_KEY" gate="G$1" x="147.32" y="12.7" rot="R270">
-<attribute name="NAME" x="149.86" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="144.78" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="COLON" gate="G$1" x="160.02" y="12.7" rot="R270">
-<attribute name="NAME" x="162.56" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="157.48" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="QUOTE" gate="G$1" x="172.72" y="12.7" rot="R270">
-<attribute name="NAME" x="175.26" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="170.18" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="ENTER_KEY" gate="G$1" x="185.42" y="12.7" rot="R270">
-<attribute name="NAME" x="187.96" y="17.78" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="182.88" y="17.78" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="CAPS_LOCK" gate="G$1" x="33.02" y="12.7" rot="R270">
+<instance part="S37" gate="G$1" x="33.02" y="12.7" rot="R270">
 <attribute name="NAME" x="35.56" y="17.78" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="30.48" y="17.78" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LEFT_SHIFT" gate="G$1" x="33.02" y="-20.32" rot="R270">
+<instance part="S38" gate="G$1" x="45.72" y="12.7" rot="R270">
+<attribute name="NAME" x="48.26" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="43.18" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S39" gate="G$1" x="58.42" y="12.7" rot="R270">
+<attribute name="NAME" x="60.96" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="55.88" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S40" gate="G$1" x="71.12" y="12.7" rot="R270">
+<attribute name="NAME" x="73.66" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="68.58" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S41" gate="G$1" x="83.82" y="12.7" rot="R270">
+<attribute name="NAME" x="86.36" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="81.28" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S42" gate="G$1" x="96.52" y="12.7" rot="R270">
+<attribute name="NAME" x="99.06" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="93.98" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S43" gate="G$1" x="109.22" y="12.7" rot="R270">
+<attribute name="NAME" x="111.76" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="106.68" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S44" gate="G$1" x="121.92" y="12.7" rot="R270">
+<attribute name="NAME" x="124.46" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="119.38" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S45" gate="G$1" x="134.62" y="12.7" rot="R270">
+<attribute name="NAME" x="137.16" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="132.08" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S46" gate="G$1" x="147.32" y="12.7" rot="R270">
+<attribute name="NAME" x="149.86" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="144.78" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S47" gate="G$1" x="160.02" y="12.7" rot="R270">
+<attribute name="NAME" x="162.56" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="157.48" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S48" gate="G$1" x="172.72" y="12.7" rot="R270">
+<attribute name="NAME" x="175.26" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="170.18" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S49" gate="G$1" x="185.42" y="12.7" rot="R270">
+<attribute name="NAME" x="187.96" y="17.78" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="182.88" y="17.78" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="S50" gate="G$1" x="33.02" y="-20.32" rot="R270">
 <attribute name="NAME" x="35.56" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="30.48" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="Z_KEY" gate="G$1" x="45.72" y="-20.32" rot="R270">
+<instance part="S51" gate="G$1" x="45.72" y="-20.32" rot="R270">
 <attribute name="NAME" x="48.26" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="43.18" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="X_KEY" gate="G$1" x="58.42" y="-20.32" rot="R270">
+<instance part="S52" gate="G$1" x="58.42" y="-20.32" rot="R270">
 <attribute name="NAME" x="60.96" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="55.88" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="C_KEY" gate="G$1" x="71.12" y="-20.32" rot="R270">
+<instance part="S53" gate="G$1" x="71.12" y="-20.32" rot="R270">
 <attribute name="NAME" x="73.66" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="68.58" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="V_KEY" gate="G$1" x="83.82" y="-20.32" rot="R270">
+<instance part="S54" gate="G$1" x="83.82" y="-20.32" rot="R270">
 <attribute name="NAME" x="86.36" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="81.28" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="B_KEY" gate="G$1" x="96.52" y="-20.32" rot="R270">
+<instance part="S55" gate="G$1" x="96.52" y="-20.32" rot="R270">
 <attribute name="NAME" x="99.06" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="93.98" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="N_KEY" gate="G$1" x="109.22" y="-20.32" rot="R270">
+<instance part="S56" gate="G$1" x="109.22" y="-20.32" rot="R270">
 <attribute name="NAME" x="111.76" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="106.68" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="M_KEY" gate="G$1" x="121.92" y="-20.32" rot="R270">
+<instance part="S57" gate="G$1" x="121.92" y="-20.32" rot="R270">
 <attribute name="NAME" x="124.46" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="119.38" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="COMMA" gate="G$1" x="134.62" y="-20.32" rot="R270">
+<instance part="S58" gate="G$1" x="134.62" y="-20.32" rot="R270">
 <attribute name="NAME" x="137.16" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="132.08" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="PERIOD" gate="G$1" x="147.32" y="-20.32" rot="R270">
+<instance part="S59" gate="G$1" x="147.32" y="-20.32" rot="R270">
 <attribute name="NAME" x="149.86" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="144.78" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="QUESTION_MARK" gate="G$1" x="160.02" y="-20.32" rot="R270">
+<instance part="S60" gate="G$1" x="160.02" y="-20.32" rot="R270">
 <attribute name="NAME" x="162.56" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="157.48" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="RIGHT_SHIFT" gate="G$1" x="172.72" y="-20.32" rot="R270">
+<instance part="S61" gate="G$1" x="172.72" y="-20.32" rot="R270">
 <attribute name="NAME" x="175.26" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="170.18" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
@@ -638,35 +638,35 @@
 <attribute name="NAME" x="15.24" y="-15.24" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="10.16" y="-15.24" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LEFT_CONTROL" gate="G$1" x="33.02" y="-53.34" rot="R270">
+<instance part="S69" gate="G$1" x="33.02" y="-53.34" rot="R270">
 <attribute name="NAME" x="35.56" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="30.48" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LEFT_WIN_KEY" gate="G$1" x="45.72" y="-53.34" rot="R270">
+<instance part="S70" gate="G$1" x="45.72" y="-53.34" rot="R270">
 <attribute name="NAME" x="48.26" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="43.18" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LEFT_ALT" gate="G$1" x="58.42" y="-53.34" rot="R270">
+<instance part="S71" gate="G$1" x="58.42" y="-53.34" rot="R270">
 <attribute name="NAME" x="60.96" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="55.88" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="SPACE_BAR" gate="G$1" x="71.12" y="-53.34" rot="R270">
+<instance part="S72" gate="G$1" x="71.12" y="-53.34" rot="R270">
 <attribute name="NAME" x="73.66" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="68.58" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="RIGHT_ALT" gate="G$1" x="83.82" y="-53.34" rot="R270">
+<instance part="S73" gate="G$1" x="83.82" y="-53.34" rot="R270">
 <attribute name="NAME" x="86.36" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="81.28" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="RIGHT_WIN_KEY" gate="G$1" x="96.52" y="-53.34" rot="R270">
+<instance part="S74" gate="G$1" x="96.52" y="-53.34" rot="R270">
 <attribute name="NAME" x="99.06" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="93.98" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="MENU_KEY" gate="G$1" x="109.22" y="-53.34" rot="R270">
+<instance part="S75" gate="G$1" x="109.22" y="-53.34" rot="R270">
 <attribute name="NAME" x="111.76" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="106.68" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="RIGHT_CONTROL" gate="G$1" x="121.92" y="-53.34" rot="R270">
+<instance part="S76" gate="G$1" x="121.92" y="-53.34" rot="R270">
 <attribute name="NAME" x="124.46" y="-48.26" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="119.38" y="-48.26" size="1.778" layer="96" rot="R270"/>
 </instance>
