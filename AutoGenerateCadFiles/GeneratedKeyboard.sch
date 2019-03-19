@@ -5288,6 +5288,13 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <wire x1="99.06" y1="-168.91" x2="101.6" y2="-168.91" width="0.1524" layer="91"/>
 <label x="96.52" y="33.02" size="1.778" layer="95"/>
 </segment>
+</net>
+<net name="PIND4" class="0">
+<segment>
+<pinref part="_1" gate="G$1" pin="_D4"/>
+<wire x1="515.62" y1="-30.48" x2="500.38" y2="-30.48" width="0.1524" layer="91"/>
+<label x="502.92" y="-30.48" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="ESC" gate="G$1" pin="P0"/>
 <wire x1="75.438" y1="-16.51" x2="75.438" y2="35.56" width="0.1524" layer="91"/>
@@ -5313,11 +5320,11 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <label x="76.2" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="PIND4" class="0">
+<net name="PIND5" class="0">
 <segment>
-<pinref part="_1" gate="G$1" pin="_D4"/>
-<wire x1="515.62" y1="-30.48" x2="500.38" y2="-30.48" width="0.1524" layer="91"/>
-<label x="502.92" y="-30.48" size="1.778" layer="95"/>
+<pinref part="_1" gate="G$1" pin="_D5"/>
+<wire x1="515.62" y1="-33.02" x2="500.38" y2="-33.02" width="0.1524" layer="91"/>
+<label x="502.92" y="-33.02" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="NUMLOCK" gate="G$1" pin="P0"/>
@@ -5340,11 +5347,11 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <label x="58.42" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="PIND5" class="0">
+<net name="PIND7" class="0">
 <segment>
-<pinref part="_1" gate="G$1" pin="_D5"/>
-<wire x1="515.62" y1="-33.02" x2="500.38" y2="-33.02" width="0.1524" layer="91"/>
-<label x="502.92" y="-33.02" size="1.778" layer="95"/>
+<pinref part="_1" gate="G$1" pin="_D7"/>
+<wire x1="515.62" y1="-38.1" x2="500.38" y2="-38.1" width="0.1524" layer="91"/>
+<label x="502.92" y="-38.1" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="KP_ASTERISK" gate="G$1" pin="P0"/>
@@ -5362,11 +5369,11 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <label x="38.1" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="PIND7" class="0">
+<net name="PINC6" class="0">
 <segment>
-<pinref part="_1" gate="G$1" pin="_D7"/>
-<wire x1="515.62" y1="-38.1" x2="500.38" y2="-38.1" width="0.1524" layer="91"/>
-<label x="502.92" y="-38.1" size="1.778" layer="95"/>
+<pinref part="_1" gate="G$1" pin="_C6"/>
+<wire x1="515.62" y1="-60.96" x2="500.38" y2="-60.96" width="0.1524" layer="91"/>
+<label x="502.92" y="-60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="KP_SLASH" gate="G$1" pin="P0"/>
@@ -5387,11 +5394,11 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <label x="17.78" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="PINC6" class="0">
+<net name="PINC7" class="0">
 <segment>
-<pinref part="_1" gate="G$1" pin="_C6"/>
-<wire x1="515.62" y1="-60.96" x2="500.38" y2="-60.96" width="0.1524" layer="91"/>
-<label x="502.92" y="-60.96" size="1.778" layer="95"/>
+<pinref part="_1" gate="G$1" pin="_C7"/>
+<wire x1="515.62" y1="-63.5" x2="500.38" y2="-63.5" width="0.1524" layer="91"/>
+<label x="502.92" y="-63.5" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="KP_DASH" gate="G$1" pin="P0"/>
@@ -5404,13 +5411,6 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <wire x1="-0.762" y1="-73.66" x2="-0.762" y2="-149.86" width="0.1524" layer="91"/>
 <junction x="-0.762" y="-73.66"/>
 <label x="0" y="33.02" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="PINC7" class="0">
-<segment>
-<pinref part="_1" gate="G$1" pin="_C7"/>
-<wire x1="515.62" y1="-63.5" x2="500.38" y2="-63.5" width="0.1524" layer="91"/>
-<label x="502.92" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="PINB5" class="0">
