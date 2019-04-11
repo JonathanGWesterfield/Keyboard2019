@@ -6583,6 +6583,14 @@ Licensed Under Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.
 <label x="58.42" y="12.7" size="1.778" layer="95"/>
 </segment>
 </net>
+<net name="N$84" class="0">
+<segment>
+<pinref part="EQUAL2" gate="G$1" pin="P1"/>
+<pinref part="DEQUAL2" gate="D$1" pin="A"/>
+<wire x1="11.938" y1="-66.04" x2="11.938" y2="-68.58" width="0.1524" layer="91"/>
+<wire x1="11.938" y1="-68.58" x2="6.858" y2="-68.58" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
