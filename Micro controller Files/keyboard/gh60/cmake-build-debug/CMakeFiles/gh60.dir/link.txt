@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/gh60.dir/keymap_poker.c.o CMakeFiles/gh60.dir/matrix.c.o  -o gh60 
