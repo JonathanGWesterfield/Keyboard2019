@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: https://jonathangwesterfield.github.io/Keyboard2019
+pygments: true
 baseurl: /Keyboard2019
 
 future: true
@@ -25,8 +25,8 @@ future: true
 title: Left Handed Keyboard v2
 email: jgwesterfield@gmail.com
 description: This is a blog detailing how I built a keyboard with a left handed number pad from scratch including designing and fabricating my own custom PCB, machining a switch plate, programming the board and carving my own case.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Keyboard2019" # t
+url: "https://jonathangwesterfield.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jonathangwesterfield
 
 # Build settings
