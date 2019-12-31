@@ -18,8 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 pygments: true
-baseurl: /Keyboard2019
-
 future: true
 
 title: Left Handed Keyboard v2
