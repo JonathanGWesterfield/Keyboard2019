@@ -7,7 +7,7 @@ const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         PPLS,  7,  8,  9,    TAB, Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,   LBRC,RBRC,BSLS, VOLD, \
                4,  5,  6,    CAPS,A,   S,   D,   F,   G,   H,   J,   K,   L,   SCLN,QUOT,     ENT,  MUTE, \
         ENT,   1,  2,  3,    LSFT,Z,   X,   C,   V,   B,   N,   M,   COMM,DOT, SLSH,      RSFT, UP, F3, \
-                PDOT,P0,     LCTL,LGUI,LALT,          SPC,                     FN0, RALT, LEFT,DOWN,RGHT),
+                PDOT, 0,     LCTL,LGUI,LALT,          SPC,                     FN0, RALT, LEFT,DOWN,RGHT),
 
     KEYMAP_ANSI(
         TRNS, TRNS, TRNS, TRNS, GRAVE, F1,  F2,  F3,  F4,  F5,  F6,  F7,  F8,  F9,  F10, F11, F12, TRNS, TRNS,\
